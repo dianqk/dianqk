@@ -19,3 +19,5 @@ Alternative contact methods:
 - Telegram: [https://t.me/dianqk](https://t.me/dianqk)
 
 If I don't reply, please add "ping" to the email subject line, which will bypass the spam list. Please do not use this rule to send advertisements.
+
+You can check my potential spare time by opening [Google Calendar](https://calendar.google.com/calendar/embed?src=7c99b281e16056c8c993fc03a3ec7120599d239def52b1fdc8e586c27f1dc789%40group.calendar.google.com&ctz=Asia%2FShanghai).
