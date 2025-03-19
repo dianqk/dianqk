@@ -8,31 +8,14 @@ During my spare time, I engage in various activities:
 - Expanding my knowledge of programming languages.
 - Learning Neovim.
 - Improving my English language skills.
-- Playing Splatoon 3.
+- Playing [Splatoon 3](https://splatoon.nintendo.com/).
 
-If you need to contact me for any reason, feel free to send me an email at dianqk📧dianqk.net.
-You can also contact me as follows.
+If you need to contact me for any reason, feel free to send me an email at dianqk@dianqk.net.
 
-<details><summary>Other contact details</summary>
-<p>
-<table>
-    <thead>
-        <tr>
-            <th>WhatsApp</th>
-            <th>Telegram</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="./whatsapp.jpg" alt="" style="width: 300px; height: 300px;" /></td>
-            <td><img src="./telegram.jpg" alt="" style="width: 300px; height: 300px;" /></td>
-        </tr>
-        <tr align="center">
-            <td>https://wa.me/qr/P5C6UX47WWZOG1</td>
-            <td>https://t.me/dianqk</td>
-        </tr>
-    </tbody>
-</table>
-<blockquote>If I don't respond in time, please send an email.</blockquote>
-</p>
-</details>
+Alternative contact methods:
+
+- Rust Zulip: [https://rust-lang.zulipchat.com/#narrow/dm/480980-dianqk](https://rust-lang.zulipchat.com/#narrow/dm/480980-dianqk)
+- Telegram: [https://t.me/dianqk](https://t.me/dianqk)
+- Delta Chat: [https://i.delta.chat/](https://i.delta.chat/#DDBABD880EF03ABDBFCED8C6CF67CB3076339506&a=dianqk%40dianqk.net&n=dianqk&i=6G3CrieKA-fITzAe2-i_QU0u&s=RFI4pZIa6aIE1K7JS7fxsiVR)
+
+If I don't reply, please add "ping" to the email subject line, which will bypass the spam list. Please do not use this rule to send advertisements.
