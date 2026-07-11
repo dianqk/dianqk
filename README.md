@@ -10,6 +10,6 @@ If you need to contact me for any reason, feel free to send me an email at dianq
 
 Alternative contact methods:
 
-- Rust Zulip: [https://rust-lang.zulipchat.com/#narrow/dm/480980-dianqk](https://rust-lang.zulipchat.com/#narrow/dm/480980-dianqk)
+- Rust Zulip: [https://rust-lang.zulipchat.com/#narrow/dm/480980-dianqk](https://rust-lang.zulipchat.com/#narrow/dm/480980-dianqk) (Please only DM me about Rust or LLVM in zulip.)
 
 If I don't reply, please add "ping" to the email subject line, which will bypass the spam list. Please do not use this rule to send advertisements.
